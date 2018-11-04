@@ -20,6 +20,21 @@ neres prosigue y en el año 1991 se desarrolla el primer scáner para negativos 
 
 ![alt tabla escaner](https://ismaelgonzalezotoyablog.files.wordpress.com/2017/05/resolucion.png)
 
+## **Funcionamiento**
+Una lámpara de luz fría, realiza un proceso de "barrido" sobre el documento
+
+La luz reflejada es desviada por medio de espejos y se recoge por uno o dos sensores electrónicos internos (capturador ó CCD "Charged Coupled Device").
+
+Cada una de las líneas que son reflejadas, son divididas en puntos (píxeles).
+
+Cada punto es analizado digitalmente e igualado con colores básicos: rojo, azul y verde.
+
+En base al análisis anterior, a cada píxel se le asigna un valor binario.
+
+Se procede a crear el mapa digital y de este modo se envía al equipo de cómputo.
+
+El mapa digital se almacena en forma de archivo (BMP, JPG, GIF, PNG, etc.).
+
 ## **Datos de salida**
 ----
 Del escanear se obtiene como resultado una **imagen RGB** no comprimida que puede transferirse a la computadora. Algunos escáneres comprimen y limpian la imagen usando algún tipo de **firmware embebido**.
@@ -28,10 +43,24 @@ Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, ma
 
 ## **Tipos de escaner**
 ----
-- Escaner de ordenador ( del que hemos hablado)
-    - Escáner de mano
-    - Escáner de cama plana
-    - Escáner rotativo
-- Escáner de código de barras
-- En Identificación biométrica (Iris, retina, huella...)
-- En medicina (obtener imagenes del cuerpo)
+- Escaner de ordenador (de los que hemos hablado principalmente)
+    - **Escáner de mano:** ienen poca resolución y hay que tener buen pulso para que la lectura sea correcta.
+ 
+  ![alt escaner mano](https://www.cool-mania.net/mini/w-980/data/product/c734/281809544-783.jpg)
+    
+    - **Escáner de cama plana**
+
+   ![alt escaner plano](https://http2.mlstatic.com/escaner-de-cama-plana-hp-scanjet-200-48-bits-hasta-2400-D_NQ_NP_368425-MLM25454660971_032017-F.jpg)
+
+    - **Escáner rotativo**
+  
+   ![alt escaner rotativo](https://www.molinaripixel.com.ar/wp-content/uploads/2015/02/x003-rotativo-534x356.jpg.pagespeed.ic.6KUsQm3m_j.jpg)
+- **Escáner de código de barras:** como su nombre indica solo lee codigos no imagenes.
+  
+  ![alt escaner barras](https://img.pccomponentes.com/articles/6/64159/1.jpg)
+- **En Identificación biométrica** (Iris, retina, huella...)
+  
+  ![alt escaner biometrico](https://www.kimaldi.com/wp-content/uploads/2017/09/RealScan-G1_huella_500x500.jpg)
+- **En medicina** (obtener imagenes del cuerpo) 
+  
+  ![alt escaner medicos](https://sc01.alicdn.com/kf/HTB1dbX7hfNNTKJjSspcq6z4KVXat/200666961/HTB1dbX7hfNNTKJjSspcq6z4KVXat.jpg))
