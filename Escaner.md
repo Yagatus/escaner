@@ -57,6 +57,7 @@ Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, ma
   
   <img width="600" src="https://img.pccomponentes.com/articles/6/64159/1.jpg">
 - **En Identificación biométrica** (Iris, retina, huella...)
+
   ![alt escaner biometrico](https://www.kimaldi.com/wp-content/uploads/2017/09/RealScan-G1_huella_500x500.jpg)
 - **En medicina** (obtener imagenes del cuerpo) 
   
