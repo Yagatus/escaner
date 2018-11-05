@@ -46,7 +46,7 @@ Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, ma
 - Escaner de ordenador (de los que hemos hablado principalmente)
     - **Escáner de mano:** ienen poca resolución y hay que tener buen pulso para que la lectura sea correcta.
  
-  ![alt escaner mano](https://www.cool-mania.net/mini/w-980/data/product/c734/281809544-783.jpg)
+  <img width="600" src="https://www.cool-mania.net/mini/w-980/data/product/c734/281809544-783.jpg">
     
     - **Escáner de cama plana**
 
@@ -57,10 +57,10 @@ Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, ma
    ![alt escaner rotativo](https://www.molinaripixel.com.ar/wp-content/uploads/2015/02/x003-rotativo-534x356.jpg.pagespeed.ic.6KUsQm3m_j.jpg)
 - **Escáner de código de barras:** como su nombre indica solo lee codigos no imagenes.
   
-  ![alt escaner barras](https://img.pccomponentes.com/articles/6/64159/1.jpg)
+  <img width="600" src="https://img.pccomponentes.com/articles/6/64159/1.jpg">
 - **En Identificación biométrica** (Iris, retina, huella...)
   
   ![alt escaner biometrico](https://www.kimaldi.com/wp-content/uploads/2017/09/RealScan-G1_huella_500x500.jpg)
 - **En medicina** (obtener imagenes del cuerpo) 
   
-  ![alt escaner medicos](https://sc01.alicdn.com/kf/HTB1dbX7hfNNTKJjSspcq6z4KVXat/200666961/HTB1dbX7hfNNTKJjSspcq6z4KVXat.jpg))
+  <img width=600 src="https://sc01.alicdn.com/kf/HTB1dbX7hfNNTKJjSspcq6z4KVXat/200666961/HTB1dbX7hfNNTKJjSspcq6z4KVXat.jpg">
