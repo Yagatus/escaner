@@ -1,4 +1,4 @@
-# Escaneres
+# Escáner
 Un **escáner** de ordenador  es un periférico que se utiliza para "copiar", mediante el uso de la luz, imágenes impresas o documentos a formato digital (a color o a blanco y negro).
 
 ![alt esto es un escaner](https://www.casanovafoto.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/6/v600_right_facing.jpg)
@@ -39,12 +39,23 @@ Del escanear se obtiene como resultado una **imagen RGB** no comprimida que pued
 
 Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, mapa de bits o PNG** dependiendo del uso que se le quiera dar a dicha imagen más tarde. Cabe mencionar que algunos escáneres se utilizan para capturar texto editable, siempre y cuando la computadora pueda leer este texto.
 
+## **Fabricantes mas importantes**
+----
+- Canon
+- Aoeleca
+- Epson
+- Hp
+- Brother
+- Fujitsu
+
 ## **Tipos de escaner**
 ----
 - Escaner de ordenador (de los que hemos hablado principalmente)
     - **Escáner de mano:** ienen poca resolución y hay que tener buen pulso para que la lectura sea correcta.
  
   <img width="600" src="https://www.cool-mania.net/mini/w-980/data/product/c734/281809544-783.jpg">
+  
+   <img width=600 src="https://static.fotokonijnenberg.nl/media/catalog/product/cache/image/800x547/602f0fa2c1f0d1ba5e241f914e856ff9/f/u/fujitsu_scansnap_sv600_fusv6001.jpg">
     
     - **Escáner de cama plana**
 
@@ -62,3 +73,4 @@ Normalmente las **imágenes** escaneadas se guardan con formato **JPEG, TIFF, ma
 - **En medicina** (obtener imagenes del cuerpo) 
   
   <img width=600 src="https://sc01.alicdn.com/kf/HTB1dbX7hfNNTKJjSspcq6z4KVXat/200666961/HTB1dbX7hfNNTKJjSspcq6z4KVXat.jpg">
+  
