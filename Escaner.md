@@ -33,8 +33,6 @@ En base al análisis anterior, a cada píxel se le asigna un valor binario.
 
 Se procede a crear el mapa digital y de este modo se envía al equipo de cómputo.
 
-El mapa digital se almacena en forma de archivo (BMP, JPG, GIF, PNG, etc.).
-
 ## **Datos de salida**
 ----
 Del escanear se obtiene como resultado una **imagen RGB** no comprimida que puede transferirse a la computadora. Algunos escáneres comprimen y limpian la imagen usando algún tipo de **firmware embebido**.
